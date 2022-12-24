@@ -1,8 +1,1 @@
 one eyted man
-2
-3
-<<<<<<< HEAD
-234
-=======
-10
->>>>>>> development
